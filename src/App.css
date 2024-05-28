@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.sno_width{
+  width: 10%;
+}
+.amount_width{
+  width: 15%;
+}
+.name_width{
+  width: 25%;
+}
